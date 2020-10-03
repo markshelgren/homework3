@@ -132,7 +132,7 @@ function writePassword() {
 
 // Assignment code called this function in the provided writePassword function
 // but it did not exist.  Created it here and returned the calculated password
-function generatePassword(password) {
+function generatePassword() {
 	var password = "";
 	var validChars = "";
 
